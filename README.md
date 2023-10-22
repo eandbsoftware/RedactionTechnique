@@ -1,6 +1,8 @@
 # RedactionTechnique
 RedactionTechnique
 
+22 Oct 2023 - Release branch is merges and prepared for release - OK - GO GO GO !!!
+
 22 Oct 2023 - Prepare Second release from the branches Develop and Develop-new
 - merge files and solving conflicts
   
